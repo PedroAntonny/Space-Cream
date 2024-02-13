@@ -13,7 +13,9 @@
 
 ## :tv: Demonstração
 
-![Screenshot](./.github/preview.gif)
+<p align="center">
+  <img alt="Demonstração" src="readme/space-cream.png" width="800">
+</p>
 
 ## :hammer_and_wrench: Tecnologias
 
